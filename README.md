@@ -1,4 +1,4 @@
-<h3 align="left">Hi! My name is ... and I'm a ..., from ....</h3>
+<h3 align="left">Hi! My name is Brenda Maganeli, from Brazil</h3>
 
 ###
 
